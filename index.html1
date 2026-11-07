@@ -1,0 +1,76 @@
+Build a complete, modern, responsive Web 2.0 travel information website inspired by the purpose and content style of https://travelobliss.com/.
+
+IMPORTANT:
+- Create an original website for a Web 2.0 publishing platform. Do not copy the exact website design, text, images, branding assets, or source code from Travelobliss.
+- The website should be related to air travel, airline information, flight guidance, destination inspiration, and practical travel planning.
+- Use original wording and royalty-free or placeholder images.
+- Make the site useful to readers first. Avoid keyword stuffing, misleading booking claims, fake reviews, or thin duplicate content.
+
+BRAND AND POSITIONING
+Use the site name: Travel Guide Hub (the name can be changed later).
+Position it as an independent travel information resource that helps readers understand airline policies, prepare for flights, explore destinations, and plan journeys with confidence.
+If mentioning Travelobliss, describe it accurately as an airline-focused travel information website offering flight guidance, route information, travel tips, and helpful resources. Do not imply that this Web 2.0 site is the official Travelobliss website or an airline.
+
+DESIGN DIRECTION
+- Premium, clean, friendly travel aesthetic.
+- Use a navy-blue, sky-blue, and white colour palette with restrained bright-blue accents.
+- Use readable modern typography, generous spacing, rounded cards, subtle shadows, and clear navigation.
+- Use a large travel hero section with an airplane / airport / destination visual.
+- Ensure the design works well on mobile, tablet, and desktop.
+- Add accessible colour contrast, descriptive image alt text, and visible keyboard focus states.
+
+SITE STRUCTURE
+1. Home page
+   - Header with logo/site name and navigation.
+   - Hero headline: “Travel Smarter with Helpful Airline Guides and Travel Tips”.
+   - Short introduction explaining the site's independent travel-information purpose.
+   - Featured sections for Airline Guides, Flight Tips, Destination Guides, and Travel Planning.
+   - Recent articles section with cards and short summaries.
+   - Clear footer with About, Contact, Privacy Policy, and Disclaimer links.
+
+2. About page
+   - Explain the site's purpose and editorial approach.
+   - State that airline policies can change and readers should confirm important details with the airline before travel.
+
+3. Airline Guides
+   - Create article templates for topics such as baggage guidance, check-in information, seat selection, missed flights, schedule changes, and travelling with children.
+   - Do not invent airline policy details, fees, age limits, or deadlines. Use placeholders or clearly mark facts that need verification against the airline's official website.
+
+4. Destination Guides
+   - Create destination cards and article templates for cities such as Paris, London, Rome, Barcelona, and Amsterdam.
+   - Include practical planning tips, highlights, and links to related travel resources.
+
+5. Travel Tips
+   - Include useful checklists and explainers about airport preparation, documents, packing, connecting flights, and group travel.
+
+6. Contact and legal pages
+   - Add editable Contact, Privacy Policy, and Disclaimer pages.
+   - Do not invent a physical address, phone number, or email address. Use clearly labelled placeholders until real contact details are supplied.
+
+CONTENT REQUIREMENTS
+- Write clear, natural, original English.
+- Use one H1 per page, logical H2/H3 headings, concise paragraphs, and descriptive internal links.
+- Add SEO-friendly page titles and meta descriptions without keyword stuffing.
+- Use meaningful URLs/slugs and descriptive image alt text.
+- Add Article structured data only where appropriate and only with accurate author, date, and article information.
+- Include a visible editorial note that airline rules and travel requirements may change.
+- Avoid claiming to compare live fares, book tickets, or provide airline customer support unless those functions genuinely exist.
+
+TECHNICAL REQUIREMENTS
+- Generate a complete static website using HTML5, CSS3, and lightweight JavaScript.
+- Include all necessary files: index.html, about.html, airline-guides.html, destinations.html, travel-tips.html, contact.html, disclaimer.html, privacy.html, style.css, and script.js.
+- Use semantic HTML and reusable CSS components.
+- Make navigation links work and ensure there are no broken internal links.
+- Add a mobile navigation menu, responsive article cards, and a functional contact form layout with a clear note if no backend is connected.
+- Keep code organised, commented where helpful, and ready to publish with GitHub Pages.
+- Include a README.md with simple instructions for uploading the files to a GitHub repository and enabling GitHub Pages.
+
+SEO AND WEB 2.0 PUBLISHING GUIDANCE
+- Treat this as a standalone informational publication, not a doorway page made only to link to Travelobliss.
+- If a Travelobliss reference is contextually useful, include at most a natural, transparent editorial link such as “For additional airline-focused travel information, visit Travelobliss” linking to https://travelobliss.com/.
+- Do not repeat the same backlink in every paragraph or create keyword-rich anchor spam.
+- Publish genuinely useful, original articles and disclose any relationship or ownership if applicable.
+- Do not create fake author biographies, fake testimonials, or fabricated expertise.
+
+DELIVERABLE
+Return the complete website source code, with each file clearly labelled and its full contents provided. Make the project ready for direct upload to GitHub. Also provide a short README explaining exactly which files to create, where to paste each code section, and how to publish the website using GitHub Pages.
